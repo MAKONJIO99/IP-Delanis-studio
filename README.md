@@ -1,6 +1,8 @@
 # THE DELANI STUDIO
 ## Author
 FRANCIS MAKONJIO
+## Screenshot
+ ![](images/delanihome.png)
 ## Description
 This is a website that gives more info about the delani studio:
           >Showing who they are
