@@ -197,5 +197,18 @@ html{
       left: 16px;
       padding-top: 20%;
     }
+    .col-md-3 img{
+        width:100%px;
+        margin: 20px;
+      }
+      #portfolio{
+        margin-left:8%;
+        margin-right: 16%; 
+      }
+      button{
+        margin-left: 2%;
+        padding-bottom: 30px;
+        margin-bottom: 20px;
+       
+      }
     }
-    
