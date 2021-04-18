@@ -89,7 +89,7 @@ $(document).ready(function(){
       var email = $("input#MERGE0").val();
       var message = $("textarea#comment").val();
       if ($("input#MERGE1").val() && $("input#MERGE0").val()){
-        alert (name + ", the Delani team has recieve you message.We will get respond to your query and suggestion. Thanks for your feedback.");
+        alert (name + ", the Delani team has recieve you message.We will get a response to your query and suggestion soon. Thanks for your feedback.:)");
       }
       else {
         alert("Please enter a valid email and name!");
